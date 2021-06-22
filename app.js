@@ -240,6 +240,7 @@ var controller = (function (budgetCtrl, UICtrl) {
   return {
     init: function () {
       console.log("Application has started.");
+      console.log("Github test");
       UICtrl.displayBudget({
         budget: 0,
         totalInc: 0,
