@@ -1,2 +1,2 @@
-# Budgeting Web App 
+# 💰 Budgeting Web App 📊
 
